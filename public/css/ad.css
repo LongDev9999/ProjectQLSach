@@ -1,0 +1,26 @@
+/* DANH SACH TAT CA */
+.tong
+{
+    position: relative;
+    left: 310px;
+    width: 1050px;
+}  
+
+th,td
+{
+    font-family: Cambria;
+    font-size: 15px;
+}
+
+/* FORM SUA */
+
+.form_them
+{
+    position: relative;
+    left: 400px;
+}
+.form_sua
+{
+    position: relative;
+    left: 400px;
+}
